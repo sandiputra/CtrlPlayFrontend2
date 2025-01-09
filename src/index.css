@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Orbitron';font-size: 22px;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
